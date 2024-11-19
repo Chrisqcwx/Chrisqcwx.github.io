@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024eccv-ifgmi
 excerpt: 'Model Inversion Attacks.'
-date: 2024-03
+date: 2024-06-18
 venue: 'ECCV 2024 (Oral)'
 paperurl: 'https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04642.pdf'
 citation: '@article{qiu2024closer,
