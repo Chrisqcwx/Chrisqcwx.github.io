@@ -2,7 +2,7 @@
 title: "A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks"
 collection: publications
 category: conferences
-permalink: /publication/2024eccv_ifgmi
+permalink: /publication/2024eccv-ifgmi
 excerpt: 'Model Inversion Attacks.'
 date: 2024-03
 venue: 'ECCV 2024 (Oral)'
