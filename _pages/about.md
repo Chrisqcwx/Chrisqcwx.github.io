@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Github pages for Hongyao Yu.
+<!-- Github pages for Hongyao Yu. -->
 
 # Biography
 
@@ -19,20 +19,20 @@ Hongyao Yu is an undergraduate student at the Department of Computer Science and
 
 # Received Honors
 
-+ Chinese National Scholarship for Undergraduate Students $\times 2$ (2022, 2024)
++ Chinese National Scholarship for Undergraduate Students × 2 (2022, 2024)
 + Top Ten Academic Excellence Stars of Harbin Institute of Technology (2024)
-+ First class scholarship $\times 3$ (2022, 2023, 2024)
++ First class scholarship × 3 (2022, 2023, 2024)
 + National Second Prize in the China Undergraduate Mathematical Contest in Modeling (2023)
 + National Third Prize in the National Student Computer System Capability Challenge (NSCSCC) (2023)
 + Provincial First Prize in the China Undergraduate Mathematical Contest in Modeling (2022)
 
 # Publications
 
-(* equal contribution; # corresponding author)
+(\* equal contribution; # corresponding author)
 
 ## 2024
 
-+ Yixiang Qiu*, Hao Fang*, Hongyao Yu*, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (**ECCV-24 Oral**), accepted. **(CCF B, TsinghuaCS: A)**. [paper](https://arxiv.org/abs/2407.13863), [code](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox).
++ Yixiang Qiu\*, Hao Fang\*, Hongyao Yu\*, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (**ECCV-24 Oral**), accepted. **(CCF B, TsinghuaCS: A)**. [paper](https://arxiv.org/abs/2407.13863), [code](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox).
 
 # Services
 
