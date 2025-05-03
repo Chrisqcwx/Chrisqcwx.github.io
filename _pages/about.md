@@ -30,9 +30,13 @@ Hongyao Yu is an undergraduate student at the Department of Computer Science and
 
 (\* equal contribution; # corresponding author)
 
+## 2025
+
++ Tianqu Zhuang\*, Hongyao Yu\*, Yixiang Qiu\*, Hao Fang\*, Bin Chen, Shu-Tao Xia , Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks, International Conference on Learning Representations 2025 (**ICLR-25**). **(CAAI A, TsinghuaCS: A)**. [paper](https://openreview.net/forum?id=p0DjhjPXl3), [code](https://github.com/ZhuangQu/Stealthy-Shield-Defense).
+
 ## 2024
 
-+ Yixiang Qiu\*, Hao Fang\*, Hongyao Yu\*, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (**ECCV-24 Oral**), accepted. **(CCF B, TsinghuaCS: A)**. [paper](https://arxiv.org/abs/2407.13863), [code](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox).
++ Yixiang Qiu\*, Hao Fang\*, Hongyao Yu\*, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (**ECCV-24 Oral**). **(CCF B, CAAI A, TsinghuaCS: A)**. [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04642.pdf), [code](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox).
 
 # Services
 
