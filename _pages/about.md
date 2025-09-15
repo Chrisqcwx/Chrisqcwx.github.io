@@ -71,7 +71,7 @@ Tianqu Zhuang\*, **Hongyao Yu**\*, Yixiang Qiu\*, Hao Fang\*, Bin Chen, Shu-Tao 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV, 2024 (oral)</div><img src='images/ifgmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Closer Look at GAM Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks
+A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks
 
 Yixiang Qiu\*, Hao Fang\*, **Hongyao Yu**\*, Bin Chen, MeiKang Qiu, Shu-Tao Xia
 
