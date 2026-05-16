@@ -17,13 +17,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hongyao Yu is a Master student in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), under the mentorship of Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). He works closely with Prof. [Bin Chen](https://faculty.hitsz.edu.cn/BinChen). Before that, He completed undergraduate studies in Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). He has published articles on model inversion attacks and training data detection. His research interests generally include trustworthy AI, machine learning and data privacy. He has also served as a reviewer for top-tier conferences, such as ICLR 2025.
+Hongyao Yu is a Master student in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), under the mentorship of Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). He works closely with Prof. [Bin Chen](https://faculty.hitsz.edu.cn/BinChen). Before that, He completed undergraduate studies in Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). He has published articles on training data detection and trustworthy AI. His research interests generally include trustworthy AI, machine learning and data privacy. He has also served as a reviewer for top-tier conferences, such as ICLR and ACM CSUR.
 
 My research interests focus on:
 
+- Diffusion Large Language Models
+- Multimodal Large Language Models
+- Training Data Detection
 - Trustworthy AI
-- Machine Learning
-- Data Privacy
 
 
 ## 📧 Concat
@@ -155,4 +156,4 @@ Yixiang Qiu\*, Hao Fang\*, **Hongyao Yu**\*, Bin Chen, MeiKang Qiu, Shu-Tao Xia
 
 # 📝 Services
 
-+ Reviewer for ICLR 2025.
++ Reviewer for ICLR 2025, 2026 and ACM CSUR.
