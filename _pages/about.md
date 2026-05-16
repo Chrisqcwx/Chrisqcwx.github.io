@@ -38,6 +38,58 @@ email: chrisqcwx@gmail.com
 
 Notes:（*）indicates the equal contributions.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD, 2026</div><img src='images/loft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Rank Matters: Understanding and Defending Model Inversion
+Attacks via Low-Rank Feature Filtering
+
+**Hongyao Yu**, Yixiang Qiu, Hao Fang, Tianqu Zhuang, Bin Chen, Sijin Yu, Bin Wang, Shu-Tao Xia and Ke Xu
+
+[ **Paper**](https://dl.acm.org/doi/pdf/10.1145/3770854.3780328)   [**Code**](https://github.com/Chrisqcwx/LoFt)  
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD, 2026</div><img src='images/3dgs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting
+for Targeted Scene Confusion
+
+Jiaxin Hong\*, Sixu Chen\*, Shuoyang Sun\*, **Hongyao Yu**\*, Hao Fang, Yuqi Tan, Bin Chen, Shuhan Qi and Shu-Tao Xia
+
+[ **Paper**](https://arxiv.org/pdf/2504.20829)   
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2026</div><img src='images/badrdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of
+Retrieval-Augmented Diffusion Models
+
+Hao Fang\*, Xiaohang Sui\*, **Hongyao Yu**\*, Kuofeng Gao, Jiawei Kong, Sijin Yu, Bin Chen and Shu-Tao Xia
+
+[ **Paper**](https://arxiv.org/pdf/2501.13340)   [**Code**](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models)  
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2026</div><img src='images/cred.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+Chenxi Qing, Jinxi Wu, Zheng Liu, Yixiang Qiu, **Hongyao Yu**, Bin Chen, Hao Wu and Shu-Tao Xia
+
+[ **Paper**](https://arxiv.org/pdf/2604.11796)   
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM, 2025</div><img src='images/ICAS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
